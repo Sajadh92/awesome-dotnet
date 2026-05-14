@@ -887,7 +887,7 @@ metadata in media files, including video, audio, and photo formats
 
 
 ## Query Builders
-* [DynamicWhere.ex](https://doc.dynamicwhere.com) - JSON-driven dynamic query builder for Entity Framework Core. Filter, sort, paginate, project, group, aggregate, and run UNION/INTERSECT/EXCEPT from a JSON body. .NET 6/7/8/9.
+* [DynamicWhere.ex](https://doc.dynamicwhere.com) - JSON-driven EF Core query builder supporting filtering, sorting, and paging.
 * [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 * [InterpolatedSql](https://github.com/Drizin/InterpolatedSql) - SQL Builder using String Interpolation and Fluent API
 
